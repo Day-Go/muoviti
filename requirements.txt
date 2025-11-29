@@ -1,0 +1,4 @@
+PyQt6
+google-genai
+yt-dlp
+Pillow
