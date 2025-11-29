@@ -39,11 +39,6 @@ ENV/
 
 # Workspace generated files
 workspace/videos/
-workspace/frames/
-workspace/templates/
-workspace/output/
-workspace/temp/
-workspace/characters/
 
 # Keep the generic character template
 !workspace/generic_character.png
